@@ -1,4 +1,4 @@
-### ⚙️ 
+### ⚙️ editando
 
 Escolhi a área de dados devido ao meu interesse por empreendedorismo e a vontade de compreender pesquisas de mercado e tendências. Iniciei estudos em ferramentas de análise de dados, abrangendo pensamento estruturado, manipulação e visualização de dados. Minha formação em engenharia química me deu uma base em matemática, o que facilitou minha transição para analista de dados, onde busco gerar insights e resolver problemas reais 
 
