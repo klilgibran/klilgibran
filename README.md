@@ -2,8 +2,8 @@
 
 👨🏻‍💻 <br>
  
-Escolhi a área de dados devido ao meu interesse por empreendedorismo e a vontade de compreender pesquisas de mercado e tendências. Iniciei estudos em ferramentas de análise de dados, abrangendo pensamento estruturado, manipulação e visualização de dados. Minha formação em engenharia química me deu uma base em matemática, o que facilitou minha transição para analista de dados, onde busco gerar <i>insights e resolver problemas reais 
- </p>
+Escolhi a área de dados devido ao meu interesse por empreendedorismo e a vontade de compreender pesquisas de mercado e tendências. Iniciei estudos em ferramentas de análise de dados, abrangendo pensamento estruturado, manipulação e visualização de dados. Minha formação em engenharia química me deu uma base em matemática, o que facilitou minha transição para analista de dados, onde busco gerar *insights* e *resolver problemas reais*
+
 
 <br>
 <div>
@@ -12,3 +12,9 @@ Escolhi a área de dados devido ao meu interesse por empreendedorismo e a vontad
   <img align ="center" alt="powerBI" height="30 width="30" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" />
   <img align ="center" alt="excel"  width="30" height="30" src="https://seeklogo.com/images/E/excel-logo-974BFF9CB9-seeklogo.com.png" /> 
 </div>
+
+
+#### Contato:
+<a href="https://www.linkedin.com/in/klilgibran/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+
